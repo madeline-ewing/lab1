@@ -1,6 +1,6 @@
 #include "eecs230.h"
 
-string name = "Madeline";
+string name = "Josh";
 
 int main() {
     cout << "Hello, " << name << "!\n";
